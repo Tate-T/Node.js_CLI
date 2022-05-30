@@ -21,5 +21,8 @@
   "homepage": "https://github.com/Tate-T/Node.js_CLI#readme",
   "devDependencies": {
     "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "uniqid": "^5.4.0"
   }
 }
